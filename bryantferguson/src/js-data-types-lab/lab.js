@@ -140,3 +140,8 @@ let grade = getFinalGrades(average);
 console.log("Name: " + student.name);
 console.log("Average: " + average);
 console.log("Grade: " + grade);
+
+//Strings are the easiest data type for me
+//Arrays are the most confusing for me
+//Arrays are collection of values of the same data type, objects have multiple different fields that can be different data types
+// You would use arrays when grouping data of the same type, you would objects when grouping data with mutiple different fields that need to be grouped together
